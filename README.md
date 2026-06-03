@@ -160,9 +160,9 @@ Updates OLED graphics:
 
 ## Team Members
 
-* Kipyegon Mark Rotich — SPH32/2919/2023
-* Gillian Kiptoo — SPH32/2905/2023
-* Ochieng Phillip — SPH32/2923/2023
+* Kipyegon Mark Rotich 
+* Gillian Kiptoo 
+* Ochieng Phillip 
 
 Department of Electrical & Electronic Engineering
 
